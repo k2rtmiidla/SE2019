@@ -1,1 +1,7 @@
-stiil
+h1 {
+	font-size: 60px;
+	font-family: "Comic Sans MS", cursive,sans-serif;
+}
+body{
+	background-image: url("taustapilt.jpg");
+}
